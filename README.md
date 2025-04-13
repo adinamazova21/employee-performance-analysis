@@ -96,6 +96,9 @@ This project predicts employee performance using regression and classification m
 
 ## 📎 Files Included
 
+- `Employee_Rerformance_Adina_Mazova.py` — Python file
+- `Dataset` — TFolder with datasets
+- `performance_vizualization.png` — Performance vizualization image
 - `README.md` — This file
 
 ---
